@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.96932e27.chunk.css",
-    "main.js": "/static/js/main.869a811e.chunk.js",
-    "main.js.map": "/static/js/main.869a811e.chunk.js.map",
+    "main.css": "/static/css/main.e012d6bb.chunk.css",
+    "main.js": "/static/js/main.946836b2.chunk.js",
+    "main.js.map": "/static/js/main.946836b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ec7faaa3.js",
     "runtime-main.js.map": "/static/js/runtime-main.ec7faaa3.js.map",
-    "static/css/2.9dd678f7.chunk.css": "/static/css/2.9dd678f7.chunk.css",
+    "static/css/2.b1c67e4f.chunk.css": "/static/css/2.b1c67e4f.chunk.css",
     "static/js/2.cc2954b3.chunk.js": "/static/js/2.cc2954b3.chunk.js",
     "static/js/2.cc2954b3.chunk.js.map": "/static/js/2.cc2954b3.chunk.js.map",
     "static/js/3.35829eab.chunk.js": "/static/js/3.35829eab.chunk.js",
@@ -32,8 +32,8 @@
     "sag.png": "/e487bd1c8bc9ec9ef0363931358208b4-24.png",
     "erik.jpg": "/eca28ba6437e9356337e82b33227cb05-66.jpg",
     "index.html": "/index.html",
-    "static/css/2.9dd678f7.chunk.css.map": "/static/css/2.9dd678f7.chunk.css.map",
-    "static/css/main.96932e27.chunk.css.map": "/static/css/main.96932e27.chunk.css.map",
+    "static/css/2.b1c67e4f.chunk.css.map": "/static/css/2.b1c67e4f.chunk.css.map",
+    "static/css/main.e012d6bb.chunk.css.map": "/static/css/main.e012d6bb.chunk.css.map",
     "static/js/2.cc2954b3.chunk.js.LICENSE.txt": "/static/js/2.cc2954b3.chunk.js.LICENSE.txt",
     "static/media/backstrokes-1.jpg": "/static/media/backstrokes-1.222259a7.jpg",
     "static/media/backstrokes-2.jpg": "/static/media/backstrokes-2.898c3767.jpg",
@@ -73,9 +73,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ec7faaa3.js",
-    "static/css/2.9dd678f7.chunk.css",
+    "static/css/2.b1c67e4f.chunk.css",
     "static/js/2.cc2954b3.chunk.js",
-    "static/css/main.96932e27.chunk.css",
-    "static/js/main.869a811e.chunk.js"
+    "static/css/main.e012d6bb.chunk.css",
+    "static/js/main.946836b2.chunk.js"
   ]
 }
