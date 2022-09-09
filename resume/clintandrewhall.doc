@@ -625,6 +625,36 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
+      <w:hlink w:dest="https://github.com/elastic/kibana/pull/138962"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>kibana/138962</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> - Complete package architecture migration</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:hlink w:dest="https://github.com/elastic/kibana/pull/136488"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>kibana/136488</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> - Package architecture + storybook mock</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
       <w:hlink w:dest="https://github.com/elastic/kibana/pull/130355"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>kibana/130355</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> - Create multi-package strategy for components</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
